@@ -1,0 +1,91 @@
+001-an-cup:
+    H-763B  1-1-1   (.+)\1\1
+    H-210   1-1     (.+)\1
+002-a-stick:
+    Harappa 2-1-1-1 (.+)ananan 
+003-d-bow: # .+ gives aas as option
+    C-80    1-3     an(..?) 
+    H-1919  3-1     (..?)an
+    M-1637  3-2     (..?)a
+    H-1545  3-3-2   (..?)\1a
+004-a-man:
+    M-191   3-4-4   d(.+)\1 
+    H-346   4-1     (.+)an
+005-i-grain:
+    M-87A   4-3-5   ad(.+)
+    H-2244B 5-3     (.+)d
+    H-1892  1-1-5   anan(.+)
+006-d-bow:
+    C-15A   2-6-5-1 a(.)iina
+    Dholavira   6-1-5   (.)anii
+007-t-warrior:
+    H-150   6-1-7       daan(.+)
+    B-8     7-1         (.+)n
+    .       .           (.+)an
+    M-879(L2R)  1-5-4-7  anya(.+)
+008-s-seed:
+    .       .       (.)a\1ii
+    .       .       (.)ani
+    B-19       .    (.)am
+
+009-n-stalk:
+    .   .   as(..?)
+    .   .   anaa(.+)
+    .   .   aa(.+)
+010-ii-long-i:
+    M-1824   1-1-5-5   anan((.+)\2)
+011-j-rain:
+    .   .   (.+)nadaa
+    .   .   (.+)\1
+    H-1862   4-4-9-11-1   aan(.+)na
+012-r-chariot:
+    .   .   ja(.)a
+    .   .   a(.)aja
+    .   .   (.)nii
+013-r-ratharvi:
+    .   .   (.+)ja
+    .   .   ja(.+)
+    .   .   ii(.+)
+014-c-four:
+    .   .   (.+)ri
+    .   .   (.+)ra
+    .   .   a(.+)ra
+    M-480   14-1-2-4-2-5   (.+)nai
+015-a-horn:
+    .   .   (.+)cara
+    .   .   (.+)jara
+    .   .   (.+)rani
+016-m-fish:
+    .   .   (.+)rana
+    .   .   ca(.+)n
+    .   .   (.+)sana
+017-vi-two:
+#    H-651A  2-17-12 a(..).?ra
+#    M-1297A 12-17-8 ra(..).?sa
+#    H-292A  12-17   ra(.+)
+#    M-982A  17-12-1    (.+)rana
+    M-164    12-17-7-2-4-1  ra(.+)taan
+018-r-chariotwheel:
+    .       .   (.+)vi
+    .       .   avii(.+)
+019-b-betelleaf:
+    .   .   (.)anavii
+    M-95    19-1-4-17   (.)aanavii
+020-y-grainmerchant:
+    .   .   maan(.+)
+    M-1928   .   aja(.+)
+    .   .    maa(.+)
+021-a-hornedman:
+    C-51   .   m(.)anya
+    .   .   a(.)na
+022-ni-stake:
+    .   .   jaj(.+)
+    M-403   4-22-7-13   (.+)tara
+023-as-spider:
+    M-955   j(..)a
+    .   .   r(..)na
+    .   .   (..)na
+    L-106   23   (..)a
+024-ama-fishroof:
+    .   .   s(.+)nii
+    Dholavira   24-22   (.+)ani
