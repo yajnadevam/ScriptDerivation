@@ -78,7 +78,7 @@
 021-a-hornedman:
     C-51   .   m(.)anya
     .   .   a(.)na
-022-ni-stake:
+022-ni-arrow:
     .   .   jaj(.+)
     M-403   4-22-7-13   (.+)tara
 023-as-spider:
@@ -89,3 +89,27 @@
 024-ama-fishroof:
     .   .   s(.+)nii
     Dholavira   24-22   (.+)ani
+025-n-reed:
+    M-1118A   .   (.+)ma\1
+    M-2069   .   (.+)ba
+    H-59A   .   as(.+)n
+026-n-boat:
+    H-550   .   a(.+)janii
+    M-928A   .   a(.+)am
+027-y-rake:
+    H-1953A .   sma(.+)
+    Karanpura   .   ra(.+)
+    H-364   .   (.+)manii
+028-v-strap:
+    .   .   ra(.+)na
+    D-345   .   (.+)dya
+    .   .   (.+)rana
+    H-669   .   (.+)mana
+029-k-dice:
+    .   .   rana(.)a
+    .   .   (.)avara
+    H-43    .   va(.)ra
+030-a-curve:
+    .   .   (.)jaka
+    .   .   (.+)\1ba
+    .   .   jan(.+)\1
