@@ -29,9 +29,8 @@
     B-19       .    (.)am
 
 009-n-stalk:
-    .   .   as(..?)
-    .   .   anaa(.+)
-    .   .   aa(.+)
+    .   .   aa(.)jana
+    .   .   aa(.)a
 010-ii-long-i:
     M-1824   1-1-5-5   anan((.+)\2)
 011-j-rain:
