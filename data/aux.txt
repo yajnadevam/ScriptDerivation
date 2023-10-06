@@ -32,3 +32,5 @@ aSnaM # accusative of aSna
 yamanii # restraining 
 vadya # to be spoken
 arava # noiseless
+antara # internal
+anca # curl

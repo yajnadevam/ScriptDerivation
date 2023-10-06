@@ -29,7 +29,7 @@
     B-19       .    (.)am
 
 009-n-stalk:
-    .   .   aa(.)jana
+    H-1862   .   aa(.)jana
     .   .   aa(.)a
 010-ii-long-i:
     M-1824   1-1-5-5   anan((.+)\2)
@@ -58,15 +58,12 @@
     .   .   (.+)rana
     .   .   ca(.+)n
     .   .   (.+)sana
-017-vi-two:
-#    H-651A  2-17-12 a(..).?ra
-#    M-1297A 12-17-8 ra(..).?sa
-#    H-292A  12-17   ra(.+)
-#    M-982A  17-12-1    (.+)rana
-    M-164    12-17-7-2-4-1  ra(.+)taan
+017-v-two:
+    M-330   17-12-1-1   anara?(..?)
+   H-292A  17-12   ra(.+)
 018-r-chariotwheel:
-    .       .   (.+)vi
-    .       .   avii(.+)
+    .   .   ana(.)a?va
+    .       .   (.)aja
 019-b-betelleaf:
     .   .   (.)anavii
     M-95    19-1-4-17   (.)aanavii
@@ -77,38 +74,43 @@
 021-a-hornedman:
     C-51   .   m(.)anya
     .   .   a(.)na
-022-ni-arrow:
-    .   .   jaj(.+)
-    M-403   4-22-7-13   (.+)tara
+022-n-arrow:
+    M-1206   .   cama(.)a
+    M-403   .   a(.)tara
 023-as-spider:
     M-955   j(..)a
     .   .   r(..)na
     .   .   (..)na
     L-106   23   (..)a
 024-ama-fishroof:
-    .   .   s(.+)nii
-    Dholavira   24-22   (.+)ani
+    M-686   .   sa(.+)n
+    H-1085   .   ja(.+)a
+    Allahdino   1-24   (.+)
 025-n-reed:
     M-1118A   .   (.+)ma\1
     M-2069   .   (.+)ba
     H-59A   .   as(.+)n
 026-n-boat:
-    H-550   .   a(.+)janii
-    M-928A   .   a(.+)am
-027-y-rake:
-    H-1953A .   sma(.+)
-    Karanpura   .   ra(.+)
-    H-364   .   (.+)manii
-028-v-strap:
-    .   .   ra(.+)na
-    D-345   .   (.+)dya
-    .   .   (.+)rana
-    H-669   .   (.+)mana
+    M-928A   .   aa?(..?)am
+    H-550   .   a(..?)jana
+    Harappa   .   a(.+)ca
+027-t-rake:
+    H-786   .   (.)man
+    L-145   .   asva(.)ara
+028-s-ladder:
+    H-1942   .   an(..?)
+    H-1533   .   (..?)\1
+    H-2585   .   (..?)ni
 029-k-dice:
-    .   .   rana(.)a
-    .   .   (.)avara
-    H-43    .   va(.)ra
+    H-300B      .   rana(..?)
+    M-176       .   (..?)m
 030-a-curve:
-    .   .   (.)jaka
-    .   .   (.+)\1ba
-    .   .   jan(.+)\1
+    M-1658   .   (..?)ba
+    H-1520   .   (.)jaka
+    Nuhato   .   s(.)na
+031-a-curvebold:
+    M-511   .   s(..?)na
+    H-1903   .   am(..)n
+032-a-curvedouble:
+    M-1569  .   (.+)s\1
+    M-1137  .   rav(.+)na

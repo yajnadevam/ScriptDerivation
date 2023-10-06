@@ -26,10 +26,8 @@ for(sort keys %VALUES) {
 
 sub resolve {
     my ($textset) = @_;
-    # print "TS @$textset";
     $char = shift @$textset;
     if($which) { next unless($which && $char =~/^$which/);}
-    # print "CHAR @$char";
     my @options = ();
     for my $lines (@$textset) {
       for my $text (@$lines) {
@@ -51,13 +49,14 @@ sub resolve {
       }
     }
     if(scalar @options > 1) {
-                my $inxdex = 0; 
-                my $count = scalar @options;
-                while($index <= $count) {
-                    last if $options[$index] eq 'an';
-                    $index++;
-                }
-                splice(@options, $index, 1);    
+        my $inxdex = 0; 
+        my $count = scalar @options;
+        #while($index <= $count) {
+            # only sign 1 terminates a large number of inscriptions
+        #    last if $options[$index] eq 'an'; 
+        #    $index++;
+        #}
+        #splice(@options, $index, 1);    
     }
     # print "$char OPTS @options";
     $VALUES{$char} = \@options;
