@@ -18,7 +18,8 @@ scripts/prove.sh -- the main script
 
 ### Usage
 
-./scripts/prove.sh 
+./scripts/prove.sh
+
 ./scripts/prove.sh 020
 
 The first time its executed, the script will set up the dictionary
